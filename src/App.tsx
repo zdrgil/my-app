@@ -12,6 +12,8 @@ function App() {
         <Route path='/' element={<Main />} />
         <Route path='/new' element={<NewPage />} />
 
+
+
       </Routes>
     </>
   );
